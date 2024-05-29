@@ -1,5 +1,5 @@
 var iFileName = "pub_20230815_GotG.js";
-RequiredSheetVersion("13.1.9");
+RequiredSheetVersion("13.1.0");
 // This file adds the player-material from Bigby Presents: Glory of the Giants to MPMB's Character Record Sheet
 
 SourceList["GotG"] = {
